@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-lz1ovt.schonowski.com/sitemap.xml
